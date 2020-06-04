@@ -1,0 +1,4 @@
+[13-May-2019 19:34:17 UTC] PHP Fatal error:  Cannot redeclare validate() (previously declared in /home/drmartin/public_html/demo/bat/mail.php:12) in /home/drmartin/public_html/demo/bat/mail.php on line 44
+[13-May-2019 19:35:38 UTC] PHP Fatal error:  Cannot redeclare validate() (previously declared in /home/drmartin/public_html/demo/bat/mail.php:12) in /home/drmartin/public_html/demo/bat/mail.php on line 44
+[13-May-2019 19:36:27 UTC] PHP Fatal error:  Cannot redeclare validate() (previously declared in /home/drmartin/public_html/demo/bat/mail.php:12) in /home/drmartin/public_html/demo/bat/mail.php on line 44
+[13-May-2019 19:40:40 UTC] PHP Fatal error:  Cannot redeclare validate() (previously declared in /home/drmartin/public_html/demo/bat/mail.php:12) in /home/drmartin/public_html/demo/bat/mail.php on line 44
